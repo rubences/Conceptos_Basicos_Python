@@ -1,5 +1,5 @@
 
-nombre = "Gaston"
+nombre = "Ruben"
 edad = 21
 
 def saludar(nombre):

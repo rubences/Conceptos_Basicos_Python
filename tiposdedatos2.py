@@ -1,9 +1,9 @@
 
-nombres = ["Gaston", "Belen", "Mia", "Pia"]
+nombres = ["Ruben", "Belen", "Mia", "Pia"]
 edades = [20, 21, 25, 35, 64, 14, 12]
 numeros = [18, 19]
 apellidos = [
-    ["Fenske", "Benitez"], 
+    ["Juarez", "Cadiz"], 
     ["Lopez, Rodriguez"], 
     ["Gonzales", "Vilches"]
 ]

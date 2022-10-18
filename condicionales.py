@@ -3,14 +3,14 @@ edad = 15
 persona_masculina = True
 persona_feminina = True
 
-if nombre == "Gaston":
+if nombre == "Ruben":
     print("Es cierto la variable nombre es Gaston")
 elif nombre == "Mario":
     print("Tu nombre es Mario")
 elif nombre == "Belen":
     print("Tu nombre es igual a Belen")
 else:
-    print("Tu nombre no es Gaston, ni Mario, ni Belen")
+    print("Tu nombre no es Ruben, ni Mario, ni Belen")
     if nombre == "Mia":
         print("Tu nombre es Mia")
 

@@ -1,5 +1,5 @@
 #String, str, cadena de caracteres
-nombre = "Belen"
+nombre = "Ruben"
 #Int, int, numero entero
 edad =  21
 #Float, float, decimales

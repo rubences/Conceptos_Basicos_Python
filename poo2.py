@@ -36,7 +36,7 @@ class Usuario:
 
 #Usuario.cantidad_usuarios()
 
-usuario = Usuario("Gaston", "Fenske", 21, True)
+usuario = Usuario("Ruben", "Juarez", 21, True)
 print(usuario)
 print(usuario.premium)
 usuario.mirar_peliculas()

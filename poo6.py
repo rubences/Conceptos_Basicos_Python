@@ -19,6 +19,6 @@ class Curso:
 curso = Curso()
 curso.get_adquirir_curso()
 print(curso.get_titulo())
-curso.set_titulo("Backend PythonPRO")
+curso.set_titulo("Backend Python")
 print(curso.get_titulo())
 
